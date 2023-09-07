@@ -1,6 +1,6 @@
-#README.md
+#H1 README.md
 
-##My understanding of the uniqueness of this file.
+##H2 My understanding of the uniqueness of this file.
 
 This is first line of README.md. 
 This file is in a repository that has the same name as my user name. 
@@ -18,4 +18,5 @@ So right now I am learning to use it.
 Next I will have to learn how to get my program from my computer into git.hub.
 
 ##Greetings
+
 Please stand by, **I have a lot to learn.**
